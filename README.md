@@ -15,6 +15,10 @@ En el directorio **conversor_monedas** encontrarás tres programas:
 
 3. Una aplicación llamada *conversor_definitivo*, la cual abre un menú con tres opciones: En la primera de ellas  podrás introducir una cantidad de pesos colombianos que la aplicación se encargara de transformar en  dólares, en la segunda opción podrás convertir tus pesos argentinos en dólares, y en la ultima opción puedes convertir pesos mexicanos en dólares.
 
+## Palindromo
+
+Esta sencilla aplicación nos pedira introducir una palabra o frase y a traves de una comparación nos indica si es un palindromo o no lo es.
+
 ## Ejercicios Sueltos
 
 En este directorio se encuentran algunos ejercicios que me sirvieron para practicar, pero que son demasiado sencillos como para crear un directorio propio.

@@ -19,6 +19,10 @@ En el directorio **conversor_monedas** encontrarás tres programas:
 
 Esta sencilla aplicación nos pedira introducir una palabra o frase y a traves de una comparación nos indica si es un palindromo o no lo es.
 
+## Prueba de Primalidad
+
+En este algoritmo, primero aparece comentado una de las multiples formas para averiguar si un numero es primo o no. Sin comentar, se encuentra la forma que he creado yo desde 0 para averiguar esta misma cosa pero mediante otra formula matemática diferente
+
 ## Ejercicios Sueltos
 
 En este directorio se encuentran algunos ejercicios que me sirvieron para practicar, pero que son demasiado sencillos como para crear un directorio propio.

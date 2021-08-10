@@ -23,6 +23,10 @@ Esta sencilla aplicación nos pedira introducir una palabra o frase y a traves d
 
 En este algoritmo, primero aparece comentado una de las multiples formas para averiguar si un numero es primo o no. Sin comentar, se encuentra la forma que he creado yo desde 0 para averiguar esta misma cosa pero mediante otra formula matemática diferente
 
+## Adivina el Numero
+
+Programa que genera un numero aleatorio y debes tratar de averiguar cual es el correcto entre 1 y 100
+
 ## Ejercicios Sueltos
 
 En este directorio se encuentran algunos ejercicios que me sirvieron para practicar, pero que son demasiado sencillos como para crear un directorio propio.

@@ -27,6 +27,10 @@ En este algoritmo, primero aparece comentado una de las multiples formas para av
 
 Programa que genera un numero aleatorio y debes tratar de averiguar cual es el correcto entre 1 y 100
 
+## Generador de Contraseñas
+
+Aplicación que permite generar una contraseña aleatoria que combina letras numeros y simbolos para crear una cotraseña segura
+
 ## Ejercicios Sueltos
 
 En este directorio se encuentran algunos ejercicios que me sirvieron para practicar, pero que son demasiado sencillos como para crear un directorio propio.

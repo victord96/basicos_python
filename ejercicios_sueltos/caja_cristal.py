@@ -6,7 +6,12 @@ def es_mayor_de_edad(edad):
     else:
         return False 
 
-
+def positivo_en_covid(persona):
+    if persona:
+        covid = persona
+        return covid
+    else:
+        return persona
 
 class PruebaDeCristalTest(unittest.TestCase):
     def test_es_mayor_de_edad(self):
@@ -22,6 +27,22 @@ class PruebaDeCristalTest(unittest.TestCase):
         resultado = es_mayor_de_edad(edad)
 
         self.assertEqual(resultado, False)
+
+    def test_sin_covid(self):
+        persona = []    
+        covid = positivo_en_covid(persona)
+
+        self.assertEqual(persona, covid)
+
+        persona = ['Juan']    
+        covid = positivo_en_covid(persona)
+
+        self.assertEqual(persona, covid)
+        
+        persona = ['Juan','David']    
+        covid = positivo_en_covid(persona)
+
+        self.assertEqual(persona, covid)
 
 if __name__ == '__main__':
     unittest.main()
